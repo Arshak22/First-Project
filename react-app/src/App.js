@@ -1,9 +1,10 @@
 import React from 'react';
+import Boxes from './Components/box';
 
 function App() {
   return (
     <div className="App">
-      <h1>Test</h1>
+      <Boxes />
     </div>
   );
 }
